@@ -1,7 +1,7 @@
 # ZLab -  LooCipher Decryption Tool
 
 **************************************************************
-This tool does not work if you restart PC after the encryption
+This tool does not work if you restart PC after the infection
 **************************************************************
 
 Decryption tool for the LooCipher Ransomware
