@@ -8,4 +8,4 @@ Decryption tool for the LooCipher Ransomware
 1. Find the Process ID (PID) of the LooCipher ransomware
 2. Open `cmd` with elevated (Administrator) privileges
 3. Move to the path where this tool was downloaded
-3. In the `cmd` prompt, type `ZLAB_LooCipher_Decryptor.exe <PID>`
+4. In the `cmd` prompt, type `ZLAB_LooCipher_Decryptor.exe <PID>`
